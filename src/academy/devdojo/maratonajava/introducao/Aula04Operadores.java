@@ -35,8 +35,20 @@ public class Aula04Operadores {
         boolean VideoGameCompravel = ValorTotalConta >=ValorPlaystation || ValorTotalPoupanca > ValorPlaystation;
         System.out.println("Compravel ou não " + VideoGameCompravel);
 
+        double bonus = 1800;
+        bonus += 1000;
+        bonus -=1000;
+        bonus *= 2;
+        bonus /= 2;
+        bonus %= 2;
 
+        System.out.println(bonus);
 
+        int contador = 0;
+        contador ++;
+        int contador2 = 0;
+        System.out.println(contador2++);
+        System.out.println(contador2) ;
     }
 }
 
