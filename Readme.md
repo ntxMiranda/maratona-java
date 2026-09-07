@@ -178,8 +178,8 @@ A ideia é registrar aqui minha evolução durante o aprendizado e utilizar este
 - [x] `println()`
 - [x] Tipos Primitivos
 - [x] Operadores
-- [ ] Condicionais
-- [ ] Estruturas de Repetição
+- [x] Condicionais
+- [x] Estruturas de Repetição
 - [ ] Arrays
 - [ ] Métodos
 - [ ] Programação Orientada a Objetos
