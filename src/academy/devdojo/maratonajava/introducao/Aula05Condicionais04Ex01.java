@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class Aula05Condicionais04Ex {
+public class Aula05Condicionais04Ex01 {
     public static void main(String[] args) {
         double salAnual = 70000;
         double PriFaixa = 9.7 / 100;
