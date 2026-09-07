@@ -1,6 +1,6 @@
 
 ## Este foi meu primeiro Curso gratuito , para aprender a utilizar A linguagem Java
-=======
+
 # ☕ Meu Primeiro Curso de Java
 
 Este é o meu **primeiro curso para aprender a utilizar a linguagem Java**.
