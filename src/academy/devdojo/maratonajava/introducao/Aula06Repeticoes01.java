@@ -1,4 +1,6 @@
-public class Aula06Repeticoes {
+package academy.devdojo.maratonajava.introducao;
+
+public class Aula06Repeticoes01 {
     public static void main(String[] args) {
 
        int count = 101;
