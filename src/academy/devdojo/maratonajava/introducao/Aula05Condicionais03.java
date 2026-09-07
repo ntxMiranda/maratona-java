@@ -7,7 +7,7 @@ public class Aula05Condicionais03 {
         String msgDoar = "Pode doar (ta com grana ein pai) >< ";
         String res = sal > 5000 ? msgDoar : msgNDoar;
 
-        
+
         if (sal >= 5000) {
             res = msgDoar;
         } else {
