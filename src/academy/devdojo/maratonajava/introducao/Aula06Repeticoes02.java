@@ -10,7 +10,7 @@ public class Aula06Repeticoes02 {
 //
 //        }
 
-        for (int i = 3; i <= 1000000; i++) {
+        for (int i = 1; i <= 10; i++) {
             if (i % 2 == 0){
                 System.out.println("par   " + i);
             } else{

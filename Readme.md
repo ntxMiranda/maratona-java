@@ -1,5 +1,4 @@
-
-## Este foi meu primeiro Curso gratuito , para aprender a utilizar A linguagem Java
+## Este foi meu primeiro curso gratuito para aprender a utilizar a linguagem Java
 
 # ☕ Meu Primeiro Curso de Java
 
@@ -157,11 +156,158 @@ Resultado:
 
 ---
 
+### 🔀 Aula 04 — Estruturas Condicionais
+
+Nesta aula aprendi sobre **estruturas condicionais**, que permitem que o programa tome decisões de acordo com determinadas condições.
+
+As principais estruturas estudadas foram:
+
+- `if`
+- `else`
+- `else if`
+
+#### `if`
+
+O `if` é utilizado para executar um determinado bloco de código **caso uma condição seja verdadeira**.
+
+Exemplo:
+
+    int idade = 18;
+
+    if (idade >= 18) {
+        System.out.println("Maior de idade");
+    }
+
+Nesse caso, a mensagem será exibida somente se `idade` for maior ou igual a `18`.
+
+---
+
+#### `else`
+
+O `else` é utilizado para executar outro bloco de código quando a condição do `if` for **falsa**.
+
+Exemplo:
+
+    int idade = 16;
+
+    if (idade >= 18) {
+        System.out.println("Maior de idade");
+    } else {
+        System.out.println("Menor de idade");
+    }
+
+Resultado:
+
+    Menor de idade
+
+---
+
+#### `else if`
+
+O `else if` permite verificar **outras condições** caso a primeira condição não seja verdadeira.
+
+Exemplo:
+
+    int nota = 7;
+
+    if (nota >= 9) {
+        System.out.println("Excelente");
+    } else if (nota >= 6) {
+        System.out.println("Aprovado");
+    } else {
+        System.out.println("Reprovado");
+    }
+
+Resultado:
+
+    Aprovado
+
+As estruturas condicionais são importantes porque permitem que o programa **tome decisões diferentes dependendo dos valores recebidos**.
+
+---
+
+### 🔁 Aula 05 — Estruturas de Repetição
+
+Nesta aula aprendi sobre **estruturas de repetição**, utilizadas para executar um determinado bloco de código várias vezes enquanto uma condição for atendida.
+
+Entre as estruturas estudadas estão:
+
+- `while`
+- `do-while`
+
+---
+
+#### `while`
+
+O `while` executa um bloco de código **enquanto uma determinada condição for verdadeira**.
+
+Exemplo:
+
+    int contador = 1;
+
+    while (contador <= 5) {
+        System.out.println(contador);
+        contador++;
+    }
+
+Resultado:
+
+    1
+    2
+    3
+    4
+    5
+
+A condição é verificada **antes** da execução do bloco.
+
+Por isso, caso a condição já seja falsa inicialmente, o código dentro do `while` não será executado nenhuma vez.
+
+---
+
+#### `do-while`
+
+O `do-while` é parecido com o `while`, porém possui uma diferença importante: o bloco de código é executado **pelo menos uma vez**, pois a condição é verificada somente depois da execução.
+
+Exemplo:
+
+    int contador = 1;
+
+    do {
+        System.out.println(contador);
+        contador++;
+    } while (contador <= 5);
+
+Resultado:
+
+    1
+    2
+    3
+    4
+    5
+
+A principal diferença entre `while` e `do-while` é:
+
+- `while` → verifica a condição **antes** de executar.
+- `do-while` → executa primeiro e verifica a condição **depois**.
+
+---
+
 ## 📝 Exercícios
 
 Durante o curso também foram realizados exercícios para colocar em prática os conteúdos apresentados nas aulas.
 
 Até o momento, os exercícios foram **bem básicos**, com o objetivo de reforçar os conceitos fundamentais da linguagem Java.
+
+Os exercícios envolveram conceitos como:
+
+- Exibição de informações no console;
+- Declaração e utilização de variáveis;
+- Tipos primitivos;
+- Operações matemáticas;
+- Comparações;
+- Operadores lógicos;
+- Estruturas condicionais;
+- Estruturas de repetição.
 
 ---
 
