@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Este foi meu primeiro Curso gratuito , para aprender a utilizar A linguagem Java
 =======
 # ☕ Meu Primeiro Curso de Java
@@ -192,4 +192,3 @@ A ideia é registrar aqui minha evolução durante o aprendizado e utilizar este
 ---
 
 > 🚀 **Este é apenas o começo da minha jornada com Java!**
->>>>>>> origin/master
