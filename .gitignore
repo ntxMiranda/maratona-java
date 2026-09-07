@@ -4,6 +4,10 @@ out/
 !**/src/test/**/out/
 .kotlin
 
+# Configurações locais do IntelliJ
+.idea/
+*.iml
+
 ### Eclipse ###
 .apt_generated
 .classpath
